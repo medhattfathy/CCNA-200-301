@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-<!-- MarkdownTOC lowercase_only_ascii="true" depth=3 autolink="true" bracket="round" -->
+<!-- lowercase_only_ascii="true" depth=3 autolink="true" bracket="round" -->
 
 - [Configure basic Networking](#configure-basic-networking)
 	- [Troubleshoot basic Networking](#troubleshoot-basic-networking)
@@ -79,7 +79,7 @@
 	- [UDP Segment](#udp-segment)
 - [To Sort and Misc](#to-sort-and-misc)
 
-<!-- /MarkdownTOC -->
+
 
 ## Configure basic Networking
 
